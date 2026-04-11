@@ -920,7 +920,7 @@ function renderShrinkflation() {
   const container = document.getElementById('shrinkflationBody');
   if (!container) return;
   if (!shrinkAlerts || shrinkAlerts.length === 0) {
-    container.innerHTML = '<p style="color:#7f8c8d;font-size:13px;padding:14px 0;">No shrinkflation alerts detected yet. Alerts appear when a product\x27s quantity/size label changes across scrape dates.</p>';
+    container.innerHTML = '<p style="color:#7f8c8d;font-size:13px;padding:14px 0;">No shrinkflation alerts detected yet. Alerts appear when a product's quantity/size label changes across scrape dates.</p>';
     return;
   }
   let html = `<p style="font-size:12px;color:#7f8c8d;margin-bottom:10px;">${shrinkAlerts.length} product(s) with quantity changes detected</p>`;
