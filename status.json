@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "date": "2026-10-06",
+  "generated_at_utc": "2026-10-06T02:46:32+00:00",
+  "problems": [],
+  "counts": {
+    "fairprice.com.sg": {
+      "today": 68211,
+      "recent_median": 68303.0,
+      "last_date": "2026-10-06"
+    },
+    "coldstorage.com.sg": {
+      "today": 10514,
+      "recent_median": 10504.0,
+      "last_date": "2026-10-06"
+    },
+    "shengsiong.com.sg": {
+      "today": 7569,
+      "recent_median": 7605.0,
+      "last_date": "2026-10-06"
+    }
+  },
+  "disk_free_gb": 7.7,
+  "dashboard_age_hours": 2.56,
+  "proxy_ok": true
+}
