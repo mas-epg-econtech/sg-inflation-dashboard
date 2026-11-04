@@ -1,28 +1,28 @@
 {
   "ok": false,
-  "date": "2026-11-03",
-  "generated_at_utc": "2026-11-03T00:22:58+00:00",
+  "date": "2026-11-04",
+  "generated_at_utc": "2026-11-04T00:28:35+00:00",
   "problems": [
-    "disk nearly full: 0.1 GB free"
+    "disk nearly full: 0.0 GB free"
   ],
   "counts": {
     "fairprice.com.sg": {
-      "today": 68742,
+      "today": 68835,
       "recent_median": 68490.5,
-      "last_date": "2026-11-03"
+      "last_date": "2026-11-04"
     },
     "coldstorage.com.sg": {
       "today": 10568,
       "recent_median": 10565.0,
-      "last_date": "2026-11-03"
+      "last_date": "2026-11-04"
     },
     "shengsiong.com.sg": {
-      "today": 7178,
-      "recent_median": 7170.0,
-      "last_date": "2026-11-03"
+      "today": 7157,
+      "recent_median": 7175.5,
+      "last_date": "2026-11-04"
     }
   },
-  "disk_free_gb": 0.1,
+  "disk_free_gb": 0.0,
   "dashboard_age_hours": 0.0,
   "proxy_ok": true
 }
